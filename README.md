@@ -1,3 +1,14 @@
-As rendered on a Picadillo in Landscape:
+Aquarius
+==========
 
-![Screenshot](Screenshot.png?raw=true)
+Usage
+------
+
+    #include <Aquarius.h>
+
+Preview images
+--------------
+* Fonts::Aquarius 
+
+![Aquarius](https://raw.githubusercontent.com/DisplayCore/Aquarius/master/Preview/Aquarius.png)
+
