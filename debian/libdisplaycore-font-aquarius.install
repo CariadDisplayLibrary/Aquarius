@@ -1,2 +1,2 @@
-Aquarius.cpp libraries/DisplayCore/Aquarius
-Aquarius.h libraries/DisplayCore/Aquarius
+src libraries/DisplayCore/Aquarius
+library.properties libraries/DisplayCore/Aquarius
